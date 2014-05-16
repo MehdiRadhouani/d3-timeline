@@ -1,5 +1,5 @@
 #d3-timeline
-A simple d3 timeline plugin.
+A simple d3 timelines plugin.
 
 Get something that looks like
 
